@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PotHoleLocator</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main_maps">Map</string>
+    <string name="spinnerPrompt">Category</string>
+    <string-array name="category_array">
+        <item>Pothole</item>
+        <item>Burst Wasa/Water Line</item>
+        <item>Wasa Trench Across Road</item>
+    </string-array>
+</resources>
